@@ -13,9 +13,14 @@ img {
   max-width: 100%;
 }
 
+body {
+  height: 100vh;
+
+}
+
 .wrapper {
   overflow: hidden;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 
